@@ -12,14 +12,14 @@ public class day1 {
 	public void lastexecution()
 	{
 		System.out.println("I will execute last");
-		System.out.println("I will execute last2");
-		System.out.println("I will execute last3");
+		System.out.println("I will execute last3333");
 		
 	}
 	@Test
 	public void Demo()
 	{
 		System.out.println("hello");//automation
+		System.out.println("hello2");
 		//Assert.assertTrue(false);
 	}
 	
@@ -32,6 +32,7 @@ public class day1 {
 	public void SecondTest()
 	{
 		System.out.println("bye");
+		System.out.println("bye2");
 	}
 
 
